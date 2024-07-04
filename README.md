@@ -1,3 +1,3 @@
 # ToDo-App
-to install - npm i
-to run - npm run dev
+### To install - npm i
+### To run - npm run dev
